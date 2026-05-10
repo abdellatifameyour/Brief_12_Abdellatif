@@ -1,4 +1,5 @@
 Construction d’un Data Warehouse (Bronze → Silver → Gold)
+
 📌 Présentation du projet
 
 Dans un contexte moderne de Data Engineering, les entreprises doivent centraliser et structurer leurs données provenant de différentes sources (ERP, CRM, fichiers CSV, etc.) afin de faciliter l’analyse et la prise de décision.
